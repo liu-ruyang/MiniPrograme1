@@ -1,7 +1,9 @@
 <template>
 	<view class="content">
 		<image class="logo" src="/static/logo.png"></image>
-		
+		<view class="test">
+			测试github仓库的使用
+		</view>
 	</view>
 </template>
 
